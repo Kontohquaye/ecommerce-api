@@ -1,0 +1,191 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Men's Black Suit",
+      "description": "A stylish black suit for men.",
+      "price": 150,
+      "category": "Men's Clothing",
+      "brand": "Black Suits"
+    },
+    {
+      "id": 2,
+      "name": "Women's Red Dress",
+      "description": "A stunning red dress for women.",
+      "price": 100,
+      "category": "Women's Clothing",
+      "brand": "Red Dresses"
+    },
+    {
+      "id": 3,
+      "name": "Kid's Running Shoes",
+      "description": "Comfortable running shoes for kids.",
+      "price": 50,
+      "category": "Kid's Clothing",
+      "brand": "Nike"
+    },
+    {
+      "id": 4,
+      "name": "Men's Blue Shirt",
+      "description": "A classic blue shirt for men.",
+      "price": 40,
+      "category": "Men's Clothing",
+      "brand": "Blue Shirts"
+    },
+    {
+      "id": 5,
+      "name": "Women's High Heels",
+      "description": "Elegant high heels for women.",
+      "price": 80,
+      "category": "Women's Clothing",
+      "brand": "High Heels"
+    },
+    {
+      "id": 6,
+      "name": "Kid's Winter Coat",
+      "description": "Warm winter coat for kids.",
+      "price": 60,
+      "category": "Kid's Clothing",
+      "brand": "Columbia"
+    },
+    {
+      "id": 7,
+      "name": "Men's Leather Shoes",
+      "description": "Stylish leather shoes for men.",
+      "price": 120,
+      "category": "Men's Clothing",
+      "brand": "Leather Shoes"
+    },
+    {
+      "id": 8,
+      "name": "Women's Sneakers",
+      "description": "Comfortable sneakers for women.",
+      "price": 70,
+      "category": "Women's Clothing",
+      "brand": "Sneakers"
+    },
+    {
+      "id": 9,
+      "name": "Kid's Denim Jeans",
+      "description": "Stylish denim jeans for kids.",
+      "price": 40,
+      "category": "Women's Clothing",
+      "brand": "Sneakers"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Men's Clothing",
+      "brands": [
+        {
+          "id": 1,
+          "name": "Black Suits",
+          "products": [
+            {
+              "id": 1,
+              "name": "Slim Fit Black Suit",
+              "description": "A stylish and comfortable slim fit black suit for men.",
+              "price": 200,
+              "images": [
+                "https://example.com/slim-fit-black-suit-front.jpg",
+                "https://example.com/slim-fit-black-suit-back.jpg",
+                "https://example.com/slim-fit-black-suit-side.jpg"
+              ]
+            },
+            {
+              "id": 2,
+              "name": "Classic Black Suit",
+              "description": "A classic and timeless black suit for men.",
+              "price": 150,
+              "images": [
+                "https://example.com/classic-black-suit-front.jpg",
+                "https://example.com/classic-black-suit-back.jpg",
+                "https://example.com/classic-black-suit-side.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Red Suits",
+          "products": [
+            {
+              "id": 3,
+              "name": "Slim Fit Red Suit",
+              "description": "A stylish and comfortable slim fit red suit for men.",
+              "price": 220,
+              "images": [
+                "https://example.com/slim-fit-red-suit-front.jpg",
+                "https://example.com/slim-fit-red-suit-back.jpg",
+                "https://example.com/slim-fit-red-suit-side.jpg"
+              ]
+            },
+            {
+              "id": 4,
+              "name": "Classic Red Suit",
+              "description": "A classic and timeless red suit for men.",
+              "price": 180,
+              "images": [
+                "https://example.com/classic-red-suit-front.jpg",
+                "https://example.com/classic-red-suit-back.jpg",
+                "https://example.com/classic-red-suit-side.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Women's Clothing",
+      "brands": [
+        {
+          "id": 3,
+          "name": "Designer Dresses",
+          "products": [
+            {
+              "id": 5,
+              "name": "Floral Maxi Dress",
+              "description": "A beautiful and comfortable floral maxi dress for women.",
+              "price": 120,
+              "images": [
+                "https://example.com/floral-maxi-dress-front.jpg",
+                "https://example.com/floral-maxi-dress-back.jpg",
+                "https://example.com/floral-maxi-dress-side.jpg"
+              ]
+            },
+            {
+              "id": 6,
+              "name": "Lace Cocktail Dress",
+              "description": "A stunning and elegant lace cocktail dress for women.",
+              "price": 180,
+              "images": [
+                "https://example.com/lace-cocktail-dress-front.jpg",
+                "https://example.com/lace-cocktail-dress-back.jpg",
+                "https://example.com/lace-cocktail-dress-side.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Casual Wear",
+          "products": [
+            {
+              "id": 7,
+              "name": "Denim Jacket",
+              "description": "A stunning and elegant lace  jacket for women.",
+              "price": 180,
+              "images": [
+                "https://example.com/lace-cocktail-dress-front.jpg",
+                "https://example.com/lace-cocktail-dress-back.jpg",
+                "https://example.com/lace-cocktail-dress-side.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
