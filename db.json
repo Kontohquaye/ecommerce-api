@@ -2,75 +2,147 @@
   "products": [
     {
       "id": 1,
-      "name": "Men's Black Suit",
-      "description": "A stylish black suit for men.",
-      "price": 150,
-      "category": "Men's Clothing",
-      "brand": "Black Suits"
+      "name": "Havannah Wear",
+      "description": "dress with sripes",
+      "price": 50,
+      "category": "Childrens clothing",
+      "stock": 12,
+      "size": 20,
+      "images": [
+        "https://images.pexels.com/photos/1620760/pexels-photo-1620760.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1620788/pexels-photo-1620788.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1620755/pexels-photo-1620755.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
     },
     {
       "id": 2,
-      "name": "Women's Red Dress",
-      "description": "A stunning red dress for women.",
-      "price": 100,
-      "category": "Women's Clothing",
-      "brand": "Red Dresses"
+      "name": "Men's  Suite",
+      "description": "A dark-blue suite for men.",
+      "price": 150,
+      "category": "Men's Clothing",
+      "stock": 7,
+      "size": 30,
+      "images": [
+        "https://images.pexels.com/photos/1043473/pexels-photo-1043473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7698742/pexels-photo-7698742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
     },
     {
       "id": 3,
-      "name": "Kid's Running Shoes",
-      "description": "Comfortable running shoes for kids.",
+      "name": "Blue jeans",
+      "description": "Blue jeans  for men.",
       "price": 50,
-      "category": "Kid's Clothing",
-      "brand": "Nike"
+      "category": "Men's Clothing",
+      "stock": 17,
+      "size": 34,
+      "images": [
+        "https://images.pexels.com/photos/1804075/pexels-photo-1804075.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/52518/jeans-pants-blue-shop-52518.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1082528/pexels-photo-1082528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/4109756/pexels-photo-4109756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
     },
     {
       "id": 4,
-      "name": "Men's Blue Shirt",
-      "description": "A classic blue shirt for men.",
-      "price": 40,
-      "category": "Men's Clothing",
-      "brand": "Blue Shirts"
+      "name": "Awesome sneakers",
+      "description": "Sneakers for parties.",
+      "price": 250,
+      "category": "Shoes",
+      "stock": 107,
+      "size": 37,
+      "images": [
+        "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/2529146/pexels-photo-2529146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/2529147/pexels-photo-2529147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
     },
     {
       "id": 5,
-      "name": "Women's High Heels",
-      "description": "Elegant high heels for women.",
-      "price": 80,
+      "name": "colourful dress ",
+      "description": "A nice straight dress for women",
+      "price": 200,
       "category": "Women's Clothing",
-      "brand": "High Heels"
+      "stock": 48,
+      "size": 38,
+      "images": [
+        "https://images.pexels.com/photos/15073544/pexels-photo-15073544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/15073536/pexels-photo-15073536.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/15073538/pexels-photo-15073538.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
     },
     {
       "id": 6,
-      "name": "Kid's Winter Coat",
-      "description": "Warm winter coat for kids.",
-      "price": 60,
-      "category": "Kid's Clothing",
-      "brand": "Columbia"
+      "name": "Red crop top ",
+      "description": "Beautiful crop top for women",
+      "price": 90,
+      "category": "Women's Clothing",
+      "stock": 128,
+      "size": 38,
+      "images": [
+        "https://images.pexels.com/photos/3755931/pexels-photo-3755931.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/3756775/pexels-photo-3756775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/3756771/pexels-photo-3756771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/3756752/pexels-photo-3756752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
     },
     {
       "id": 7,
-      "name": "Men's Leather Shoes",
-      "description": "Stylish leather shoes for men.",
-      "price": 120,
-      "category": "Men's Clothing",
-      "brand": "Leather Shoes"
+      "name": "Vuitton scalph ",
+      "description": "A scalph for women",
+      "price": 95,
+      "category": "Women's Clothing",
+      "stock": 28,
+      "size": 20,
+      "images": [
+        "https://images.pexels.com/photos/5685311/pexels-photo-5685311.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/5685310/pexels-photo-5685310.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/5685319/pexels-photo-5685319.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
     },
     {
       "id": 8,
-      "name": "Women's Sneakers",
-      "description": "Comfortable sneakers for women.",
-      "price": 70,
-      "category": "Women's Clothing",
-      "brand": "Sneakers"
+      "name": "Yeezy ",
+      "description": "A nice kick for guys",
+      "price": 320,
+      "category": "Shoes",
+      "stock": 48,
+      "size": 40,
+      "images": [
+        "https://images.pexels.com/photos/14174469/pexels-photo-14174469.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/14174472/pexels-photo-14174472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/14174468/pexels-photo-14174468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
     },
     {
       "id": 9,
-      "name": "Kid's Denim Jeans",
-      "description": "Stylish denim jeans for kids.",
+      "name": "childrens fit ",
+      "description": "A nice outfit for kids",
       "price": 40,
-      "category": "Women's Clothing",
-      "brand": "Sneakers"
+      "category": "Childrens clothing",
+      "stock": 68,
+      "size": 20,
+      "images": [
+        "https://images.pexels.com/photos/4740509/pexels-photo-4740509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/4740515/pexels-photo-4740515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/4740516/pexels-photo-4740516.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
+    },
+
+    {
+      "id": 10,
+      "name": "childrens fit ",
+      "description": "A nice outfit for kids",
+      "price": 40,
+      "category": "Childrens clothing",
+      "stock": 68,
+      "size": 20,
+      "images": [
+        "https://images.pexels.com/photos/10948508/pexels-photo-10948508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/10948501/pexels-photo-10948501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/10948493/pexels-photo-10948493.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/10948494/pexels-photo-10948494.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ]
     }
   ],
   "categories": [
