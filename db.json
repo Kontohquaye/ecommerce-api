@@ -102,7 +102,7 @@
     },
     {
       "id": 8,
-      "name": "Yeezy ",
+      "name": "Y-Sneakers ",
       "description": "A nice kick for guys",
       "price": 320,
       "category": "Shoes",
@@ -131,9 +131,9 @@
 
     {
       "id": 10,
-      "name": "childrens fit ",
+      "name": "couples fit ",
       "description": "A nice outfit for kids",
-      "price": 40,
+      "price": 90,
       "category": "Childrens clothing",
       "stock": 68,
       "size": 20,
